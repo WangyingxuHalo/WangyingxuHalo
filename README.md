@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yingxu Wang
 - 👀 I’m interested in software development as well as web development.
-- 🌱 I’m currently learning C and C++ in Duke University.
-- 💞️ I’m looking for 2022 summer intern as software develpment engineer.
+- 🌱 I know web development, C/C++, Python, Java.
+- 💞️ I’m a incoming SDE intern @ Meta
 - 📫 My email: yw473@duke.edu
 
 <!---
