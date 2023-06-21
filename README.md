@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yingxu Wang
-- 👀 I’m interested in software development as well as web development.
-- 🌱 I know web development, C/C++, Python, Java.
-- 💞️ Previous SDE intern @ Meta
+- 👀 I’m interested in web/front-end development. 
+- 💞️ Previous SDE intern @ Meta (Facebook)
 - 📫 My email: yw473@duke.edu
 
 <!---
